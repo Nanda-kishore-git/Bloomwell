@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Natural Face Cream",
+    "image": "https://via.placeholder.com/300x200?text=Natural+Face+Cream",
+    "benefits": ["Hydrates skin deeply", "Reduces wrinkles", "Organic ingredients"],
+    "price": 24.99
+  },
+  {
+    "id": 2,
+    "name": "Herbal Hair Oil",
+    "image": "https://via.placeholder.com/300x200?text=Herbal+Hair+Oil",
+    "benefits": ["Strengthens hair roots", "Reduces hair fall", "Promotes growth"],
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "Vitamin C Serum",
+    "image": "https://via.placeholder.com/300x200?text=Vitamin+C+Serum",
+    "benefits": ["Brightens skin tone", "Fights free radicals", "Reduces dark spots"],
+    "price": 34.99
+  },
+  {
+    "id": 4,
+    "name": "Aloe Vera Gel",
+    "image": "https://via.placeholder.com/300x200?text=Aloe+Vera+Gel",
+    "benefits": ["Soothes irritated skin", "Moisturizes effectively", "Natural healing"],
+    "price": 15.99
+  },
+  {
+    "id": 5,
+    "name": "Green Tea Mask",
+    "image": "https://via.placeholder.com/300x200?text=Green+Tea+Mask",
+    "benefits": ["Detoxifies skin", "Tightens pores", "Anti-aging properties"],
+    "price": 12.99
+  },
+  {
+    "id": 6,
+    "name": "Lavender Essential Oil",
+    "image": "https://via.placeholder.com/300x200?text=Lavender+Essential+Oil",
+    "benefits": ["Relieves stress", "Improves sleep", "Promotes relaxation"],
+    "price": 22.99
+  }
+]
